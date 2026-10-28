@@ -36,7 +36,7 @@
     "@airgap/sapling-wasm": "0.0.7",
     "@airgap/serializer": "^0.13.45",
     "@stablelib/blake2b": "^1.0.1",
-    "@stablelib/ed25519": "^1.0.3",
+    "@stablelib/ed25519": "^2.1.0",
     "@stablelib/nacl": "^1.0.4",
     "@stablelib/random": "^1.0.2",
     "@stablelib/utf8": "^1.0.1",

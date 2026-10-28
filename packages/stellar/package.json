@@ -33,7 +33,7 @@
     "@airgap/coinlib-core": "^0.13.45",
     "@airgap/module-kit": "^0.13.45",
     "@airgap/serializer": "^0.13.45",
-    "@stellar/stellar-sdk": "^13.3.0"
+    "@stellar/stellar-sdk": "^17.4.0"
   },
   "localDependencies": {},
   "nyc": {

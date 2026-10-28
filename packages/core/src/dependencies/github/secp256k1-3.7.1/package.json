@@ -59,7 +59,7 @@
     "devDependencies": {
         "bignum": "https://github.com/fanatid/node-bignum#e688fd40dff43b03480bcdb5e4c099ee9ac27102",
         "browserify": "^16.2.3",
-        "karma": "^1.3.0",
+        "karma": "^6.4.4",
         "karma-browserify": "^5.0.4",
         "karma-chrome-launcher": "^2.2.0",
         "karma-detect-browsers": "^2.3.3",
